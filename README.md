@@ -24,7 +24,7 @@ To build and run the proactor chat, follow the instructions below.
    make
    ```
 
-   This will compile the `react_server` executable and the `libst_reactor.so` library.
+   This will compile the `proact_server` executable and the `libst_proactor.so` library.
 
 3. Specifiy the path to the library :
    ```
